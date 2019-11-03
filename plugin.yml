@@ -1,0 +1,11 @@
+name: MyTool
+version: 1.2.0
+description: 마이툴 (제작:염료)
+author: yeomryo@naver.com
+website: https://www.youtube.com/yeomryo
+main: com.yeomryo.mytool.MyTool
+commands:
+  마이툴:
+      description: 마이툴에 관련된 명령어입니다. by 염료
+      permission: 
+      usage: /<command>
